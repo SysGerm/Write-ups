@@ -1,4 +1,4 @@
-# Write-ups
+# README.md
 Inside here you will find:
                           
                           - TryHackMe write-ups
